@@ -1,0 +1,2 @@
+# privacy.md
+privacy policy
